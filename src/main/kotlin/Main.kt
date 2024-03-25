@@ -1,3 +1,5 @@
 fun main(){
-    println("Kotlin practice")
+    val smartDevices  :SmartDevices = SmartTVDevice("AndroidTV","Entertainment")
+    smartDevices.turnOn()
+
 }
