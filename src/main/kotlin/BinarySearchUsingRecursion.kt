@@ -5,10 +5,10 @@ fun binarySearchUsingRecursion(sortedArray:Array<Int>,start:Int,end:Int,K:Int):I
            return  mid
         }
         else if(sortedArray[mid]<K){
-            binarySearchUsingRecursion(sortedArray,mid+1,end,K)
+            return binarySearchUsingRecursion(sortedArray,mid+1,end,K)
         }
         else{
-            binarySearchUsingRecursion(sortedArray,start,mid-1,K)
+           return binarySearchUsingRecursion(sortedArray,start,mid-1,K)
         }
     }
 
