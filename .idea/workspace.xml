@@ -4,27 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d4f233c-0220-46d6-b8fa-76848ed23040" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="1f593095-36f1-43d8-b10a-83cb1d209c21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BinarySearch.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BinarySearchUsingRecursion.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FindingLastOccurenceIndex.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FindingOccurenceIndex.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InheritanceKotlin.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/NumberOfOccurences.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/settings.gradle.kts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,66 +36,50 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-    <projectState path="$PROJECT_DIR$/BinarySearch">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2efiXiQhbt9VmzxNQB6sOp7ebNz" />
+  <component name="ProjectId" id="2efkKjxpUQhzjRqKMrhOlnCuoE9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Shubham_Workspace/Kotlin/KotlinPractices/BinarySearch/settings.gradle.kts"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build KotlinDSA.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.BinarySearchKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Shubham_Workspace/Kotlin/KotlinDSA/BinarySearch/src/main/kotlin&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="KotlinPractices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="KotlinPractices" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shubham_Workspace\Kotlin\KotlinDSA\BinarySearch\src\main\kotlin" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d4f233c-0220-46d6-b8fa-76848ed23040" name="Changes" comment="" />
-      <created>1712302077873</created>
+      <changelist id="1f593095-36f1-43d8-b10a-83cb1d209c21" name="Changes" comment="" />
+      <created>1712302960856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712302077873</updated>
+      <updated>1712302960856</updated>
     </task>
     <servers />
   </component>
