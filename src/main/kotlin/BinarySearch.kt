@@ -30,6 +30,6 @@ class Search{
 fun main(){
     var sortedArray = arrayOf(2,4,6,12,17,20,25)
     val search = Search()
-    val value = search.binarySearch(sortedArray, 17)
+    val value = search.binarySearch(sortedArray, 25)
     println(value)
 }
