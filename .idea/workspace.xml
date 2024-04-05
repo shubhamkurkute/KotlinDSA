@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f593095-36f1-43d8-b10a-83cb1d209c21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+    <list default="true" id="1f593095-36f1-43d8-b10a-83cb1d209c21" name="Changes" comment="Recursion Implemented">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/settings.gradle.kts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +62,28 @@
       <option name="presentableId" value="Default" />
       <updated>1712302960856</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed project structure">
+      <option name="closed" value="true" />
+      <created>1712303204619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712303204620</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Recursion Implemented">
+      <option name="closed" value="true" />
+      <created>1712303290432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712303290432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed project structure" />
+    <MESSAGE value="Recursion Implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion Implemented" />
   </component>
 </project>
